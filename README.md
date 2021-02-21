@@ -30,5 +30,5 @@ source .bash_profile
 ### Running the script
 
 ```
-python ftp-upload.py <absolut path to the directory with images]> <file extension>
+python ftp-upload.py <absolut path to the directory with images> <file extension>
 ```
